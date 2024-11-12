@@ -43,7 +43,7 @@
   <br>
   <ul> 
     <li> 🔧&nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/hb-tree"> hb-tree </a> : Trying to implement my own data structures for key value pairs </li>
-    <li> 🔨&nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/ht-tree"> ht-tree </a> : Is what I would consider the second generation of `ht-tree` but with different approach making it more like hash tables linked together rather than trees </li>
+    <li> 🔨&nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/ht-tree"> ht-tree </a> : Second generation of `ht-tree` but its more like hash tables linked together rather than trees </li>
   <ul>
  
 </details>
