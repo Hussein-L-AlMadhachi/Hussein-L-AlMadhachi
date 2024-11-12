@@ -26,7 +26,7 @@
 <h4>
 <details>
 
-  <summary> 🔊 &nbsp;My projects &nbsp;📢  </summary>
+  <summary> 📢 &nbsp;My projects &nbsp;🔊  </summary>
   <br>
   
   <ul> 
