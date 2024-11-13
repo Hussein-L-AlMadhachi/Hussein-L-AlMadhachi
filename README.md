@@ -9,7 +9,7 @@
 
 
 - 🧑‍💻 &nbsp; Backend Developer
-- 👨‍🎓 &nbsp; Studing computer engineering at **Al-Nahrain University**
+- 👨‍🎓 &nbsp; Studying computer engineering at **Al-Nahrain University**
 - 🏠 &nbsp; Living in **IRAQ**
 
 
