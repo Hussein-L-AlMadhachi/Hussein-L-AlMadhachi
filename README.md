@@ -52,7 +52,6 @@
 
 <h4> 🎯 &nbsp;My Goals &nbsp;✨ </h4>
 
-- 🎛️&nbsp; try making my own Redis<sup>&#174;</sup> clone using [ht-tree](https://github.com/Hussein-L-AlMadhachi/ht-tree) and [ht-tree](https://github.com/Hussein-L-AlMadhachi/hb-tree) or a new version of those.
 - 🛠️&nbsp; Releasing the new version of <a href="https://github.com/Hussein-L-AlMadhachi/Rhenium"> Rhenium </a> the backend build and automation tool.
 
 > Contact me using my email [hussein.almadhachi@yahoo.com](mailto:hussein.almadhachi@yahoo.com)
