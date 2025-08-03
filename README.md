@@ -30,10 +30,10 @@
   <br>
   
   <ul> 
-    <li> 🛠️ &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/Rhenium"> Rhenium </a> (unstable): A universal build and automation system for your backend. </li>
-    <li> 🔓 &nbsp; <a href="https://addons.mozilla.org/en-US/firefox/addon/yotutube-ads-skipper/"> Youtube Ads Skipper </a> : A browser extension I made to auto-skip annoying unskipable Youtube Ads. </li>
-    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/clanga-compose/"> Clanga </a> : Generate responsive and reusable CSS using clean JavaScript. No more raw CSS or utility class clutter. </li>
     <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/SweetMeter/"> SweetMeter </a> : SweetMeter is a lightweight, self-hostable CGM (Continuous Glucose Monitoring) API server compatible with the Nightscout API. It’s built in Python for speed, simplicity, and extremely low resource usage — even small $5/month VPS instances can run it effortlessly. </li>
+    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/clanga-compose/"> Clanga </a> : Generate responsive and reusable CSS using clean JavaScript. No more raw CSS or utility class clutter. </li>
+    <li> 🔓 &nbsp; <a href="https://addons.mozilla.org/en-US/firefox/addon/Skiperoo/"> Skiperoo </a> : A browser extension I made to auto-skip annoying unskipable Youtube Ads. </li>
+    <li> 🛠️ &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/Rhenium"> Rhenium </a> (unstable): A universal build and automation system for your backend. </li>
   <ul>
 </details>
 
