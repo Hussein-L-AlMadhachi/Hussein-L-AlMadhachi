@@ -8,7 +8,7 @@
 </h3>
 
 
-- 🧑‍💻 &nbsp; Backend Developer
+- 🧑‍💻 &nbsp; Fullstack Developer + junior devops engineer
 - 👨‍🎓 &nbsp; Studying computer engineering at **Al-Nahrain University**
 - 🏠 &nbsp; Living in **IRAQ**
 
