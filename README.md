@@ -15,8 +15,8 @@
 
 <h3 align="center">
   
-[![Twitter: Mr.Kasper](https://img.shields.io/twitter/follow/XTechnoPro?style=social)](https://twitter.com/XTechnoPro)
-[![GitHub Mr.Kasper](https://img.shields.io/github/followers/Hussein-L-AlMadhachi?label=follow&style=social)](https://github.com/Hussein-L-AlMadhachi)
+[![Twitter](https://img.shields.io/twitter/follow/XTechnoPro?style=social)](https://twitter.com/XTechnoPro)
+[![GitHub](https://img.shields.io/github/followers/Hussein-L-AlMadhachi?label=follow&style=social)](https://github.com/Hussein-L-AlMadhachi)
 
 </h3>
 
