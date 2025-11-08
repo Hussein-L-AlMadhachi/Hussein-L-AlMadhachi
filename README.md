@@ -31,7 +31,11 @@
   
   <ul> 
     <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/SweetMeter/"> SweetMeter </a> : SweetMeter is a lightweight, self-hostable CGM (Continuous Glucose Monitoring) API server compatible with the Nightscout API. It’s built in Python for speed, simplicity, and extremely low resource usage — even small $5/month VPS instances can run it effortlessly. </li>
-    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/clanga-compose/"> Clanga </a> : Generate responsive and reusable CSS using clean JavaScript. No more raw CSS or utility class clutter. </li>
+    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/claws-css/"> Claws CSS </a> : next-gen CSS framework and compiler that gives you the power of Tailwind, the flexibility of CSS-in-JS, and the simplicity of vanilla TypeScript/JavaScript — all in one. </li>
+    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/Enders-Sync/"> Enders-Sync </a> : A zero-boilerplate RPC (Remote Procedure Call) Fullstack library for Express.js that makes calling server functions from the client feel like calling local functions. </li>
+    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/Enders-Sync-client/"> Enders-Sync Client </a> : Easy to use and intuitive client for Enders-Sync. </li>
+    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/pg-norm/"> PG-NORM </a> : A TypeScript SQL-first layer for PostgreSQL combining raw SQL control with ORM-like simplicity minimizing boilerplate. </li>
+    <li> 🔓 &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/create-pg-norm/"> create-pg-norm </a> : A tool to create new PG-NORM projects with one npm command. </li>
     <li> 🔓 &nbsp; <a href="https://addons.mozilla.org/en-US/firefox/addon/Skiperoo/"> Skiperoo </a> : A browser extension I made to auto-skip annoying unskipable Youtube Ads. </li>
     <li> 🛠️ &nbsp; <a href="https://github.com/Hussein-L-AlMadhachi/Rhenium"> Rhenium </a> (unstable): A universal build and automation system for your backend. </li>
   <ul>
@@ -56,4 +60,4 @@
 
 - 🛠️&nbsp; Releasing the new version of <a href="https://github.com/Hussein-L-AlMadhachi/Rhenium"> Rhenium </a> the backend build and automation tool.
 
-> Contact me using my email [hussein.almadhachi@yahoo.com](mailto:hussein.almadhachi@yahoo.com)
+> Contact me using my email [hussein.almadhachi@yahoo.com](mailto:hussein.madhachi@gmail.com)
