@@ -55,4 +55,4 @@
 </details>
 </h4>
 
-> Contact me using my email [hussein.almadhachi@yahoo.com](mailto:hussein.madhachi@gmail.com)
+> Contact me using my email [me@hussein-almadhaji.dev](mailto:me@hussein-almadhaji.dev)
