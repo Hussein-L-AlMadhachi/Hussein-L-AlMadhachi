@@ -3,7 +3,6 @@
 <h3> 📛 &nbsp;About Me </h3>
 
 <h3>
-<img height="160em" align="right" width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-L-AlMadhachi&theme=dark&layout=compact"/>
 <img height="160em" align="right" width="270em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Hussein-L-AlMadhachi?cardType=level&theme=dark" /> 
 </h3>
 
