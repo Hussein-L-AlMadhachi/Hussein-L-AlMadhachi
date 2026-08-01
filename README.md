@@ -8,7 +8,7 @@
 
 
 - 🧑‍💻 &nbsp; Fullstack Developer + junior devops engineer
-- 👨‍🎓 &nbsp; Studying computer engineering at **Al-Nahrain University**
+- 👨‍🎓 &nbsp; Studied computer engineering at **Al-Nahrain University**
 - 🏠 &nbsp; Living in **IRAQ**
 
 
